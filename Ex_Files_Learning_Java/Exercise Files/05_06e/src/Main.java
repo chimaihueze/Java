@@ -4,7 +4,6 @@ public class Main {
         double result = Math.pow(2, 5);
         System.out.println(result);
 
-        Math.
     }
 
 }
