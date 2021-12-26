@@ -2,7 +2,7 @@ class Vehicle {
       int speed = 100; //instance variable
       
       public Vehicle() {
-    	  System.out.println(" Default Vehicle constructor");
+    	  System.out.println("Default Vehicle constructor");
       }
       public Vehicle(int speed) {
     	  System.out.println("Constructor with speed");
