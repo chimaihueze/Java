@@ -8,9 +8,9 @@ public class Average {
         
         System.out.println("Enter the first, second and third number.");
 
-        int number1 = numbers.nextInt();
-        int number2 = numbers.nextInt();
-        int number3 = numbers.nextInt();
+        float number1 = numbers.nextInt();
+        float number2 = numbers.nextInt();
+        float number3 = numbers.nextInt();
 
         System.out.println("The average of the three numbers is " + (number1 + number2 + number3) / 3);
 
